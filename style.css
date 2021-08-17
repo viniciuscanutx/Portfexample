@@ -80,76 +80,10 @@ p.titulo{
   }
 
 .principal .rodape {
-
     position: absolute;
-	bottom: 0;
+	  bottom: 0;
     left: 96%;
     font-family: 'Bebas Neue';
     color: white;
     font-size: 9px;
   }
-
-  .contact-section a {
-    display: inline-block;
-    color: white;
-    font-family: 'Bebas Neue';
-    font-size: 25px;
-    padding: 2.5rem 1rem;
-    letter-spacing: 1.6px;
-  }
-
-.contact-section a:hover {
-    color: #444;
-    background-color: white;
-    padding: 0.1rem 0.5rem;
-    letter-spacing: 1.6px;
-    border-radius: 4px;
-}
-
-.projects-section p {
-  display: inline-block;
-  color: white;
-  padding-right: 89%;
-  font-size: 16px;
-  font-family: 'Lobster';
-}
-
-.projects-section h1 {
-  display: inline;
-  color: white;
-  padding-right: 92%;
-  font-size: 27px;
-  font-family: 'Bebas Neue';
-}
-
-.especialidades h1 {
-  display: inline;
-  color: white;
-  padding-right: 98%;
-  font-size: 27px;
-  font-family: 'Bebas Neue';
-}
-
-.especialidades p {
-  display: inline-block;
-  color: white;
-  padding-right: 92%;
-  font-size: 16px;
-  font-family: 'Lobster';
-}
-
-.especialidades2 h1 {
-  display: inline;
-  color: white;
-  padding-right: 98%;
-  font-size: 27px;
-  font-family: 'Bebas Neue';
-}
-
-.especialidades2 p {
-  display: inline-block;
-  color: white;
-  padding-right: 92.5%;
-  font-size: 16px;
-  font-family: 'Lobster';
-}
