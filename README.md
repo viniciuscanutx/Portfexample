@@ -1,6 +1,6 @@
 Example, Portfolio Front-End
 
-hello, its my first html/css site.
+hello, its my first landing page.
 
 Project Photos:
 
